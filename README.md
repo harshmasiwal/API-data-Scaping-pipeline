@@ -16,6 +16,12 @@ The project involves the complete process of constructing a music database, begi
 
 **5️⃣ Python scripting:** For specialized functionalities.
 
+
 #  🚨 Architecture:
+
+![Data_Architecture](https://github.com/user-attachments/assets/2ef0d743-c041-48ac-87c4-8affeaa9c2ce)
+
+
+![Screenshot 2024-11-11 at 12 26 22 PM](https://github.com/user-attachments/assets/22baf1dd-88e2-4bb2-af1a-055a01af4267)
 
 
